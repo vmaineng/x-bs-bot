@@ -22,7 +22,10 @@ x_client = tweepy.Client(
 response = x_client.create_tweet(text='Project posting')
 print(response)
 
-
+bs_client = Client()
+profile=bs_client.login(BLUESKY_USER, BLUESKY_PASSWORD)
+response = bs_client.send_post('Posting this for funsies')
+print(response)
 
 
 
