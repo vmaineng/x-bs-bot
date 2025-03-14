@@ -10,5 +10,5 @@
 - Create a portfolio piece that showcases my coding skills and problem-solving abilities.
 
 ### Impact Goals
-- Help small businesses save time by automating their social media posting.
+- Be able to scale for other users and small business to use to save time by automating their social media posting.
 - Share this project as an open-source tool so others can benefit from it.
